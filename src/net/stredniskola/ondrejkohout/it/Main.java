@@ -3,7 +3,10 @@ package net.stredniskola.ondrejkohout.it;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        System.out.println(operace('+',2,1));
+        System.out.println(operace('-',2,1));
+        System.out.println(operace('*',2,1));
+        System.out.println(operace('/',2,1));
     }
 
 
