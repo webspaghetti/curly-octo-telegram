@@ -27,4 +27,8 @@ public class Main {
 
     }
 
+    public int scitani(int a, int b){
+        return operace('+',a,b);
+    }
+
 }
